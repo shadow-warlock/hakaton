@@ -1,0 +1,22 @@
+[20-Feb-2019 00:48:05 Europe/Moscow] PHP Fatal error:  Call to undefined method Loaders\Devices\DevicesLoader::getAllPagination() in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 52
+[20-Feb-2019 00:49:14 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/DevicesLoader.php on line 103
+[20-Feb-2019 00:51:40 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:51:40 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:51:58 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:51:58 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:52:25 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:52:25 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:52:31 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 00:52:31 Europe/Moscow] PHP Notice:  Undefined index: COUNT(*) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/BottlesLoader.php on line 119
+[20-Feb-2019 01:43:26 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DevicesView.php on line 72
+[20-Feb-2019 17:33:19 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DeviceAddModalView.php on line 62
+[20-Feb-2019 18:02:41 Europe/Moscow] PHP Notice:  Undefined index: id in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 94
+[20-Feb-2019 18:02:41 Europe/Moscow] PHP Fatal error:  Call to a member function getId() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DeviceEditModalView.php on line 69
+[24-Feb-2019 18:38:47 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 121
+[24-Feb-2019 23:01:11 Europe/Moscow] PHP Fatal error:  Call to undefined method Models\Devices\Device::getCoords() in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DeviceEditModalView.php on line 99
+[24-Feb-2019 23:01:55 Europe/Moscow] PHP Fatal error:  Call to undefined method Models\Devices\Device::getCoords() in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DeviceEyeModalView.php on line 46
+[26-Feb-2019 19:48:57 Europe/Moscow] PHP Notice:  Undefined index: view in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 187
+[26-Feb-2019 21:07:04 Europe/Moscow] PHP Fatal error:  Call to undefined method Views\Devices\DevicesView::setPageView() in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 191
+[28-Feb-2019 15:37:07 Europe/Moscow] PHP Fatal error:  Class 'Views\UnloginView' not found in /home/pandomat/test.pandomat.ru/dashboard/Controllers/BaseController.php on line 75
+[28-Feb-2019 18:58:19 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 208
+[28-Feb-2019 18:58:23 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 208

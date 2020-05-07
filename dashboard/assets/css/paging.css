@@ -1,0 +1,71 @@
+#users-paging-container {
+    display: flex;
+}
+
+
+
+
+.paging-button {
+    padding: 5px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.paging-button.selected {
+    background: rgb(18, 156, 13);
+
+    color: white;
+    cursor: default;
+}
+
+
+
+
+.paging-button__after {
+    margin-right: 20px;
+}
+
+.last {
+    background: #e6e69c;
+}
+
+
+
+.toolbar-button {
+    border-radius: 4px;
+    background: rgb(160, 240, 157);
+    color: black;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #00000000;
+}
+
+.paging-button {
+    padding: 5px;
+}
+
+
+
+
+.paging-button__after::after{
+    content: "..";
+    position: absolute;
+    margin-left: 20px;
+    color: black;
+    /* margin:  */
+}
+
+.paging-button__before {
+    margin-left: 20px;
+}
+
+.paging-button__before::before{
+    content: "..";
+    position: absolute;
+    margin-left: -22px;
+    color: black;
+    /* margin:  */
+}

@@ -1,0 +1,49 @@
+[26-Feb-2019 11:41:26 Europe/Moscow] PHP Fatal error:  Class 'View\Coupons\CouponsView' not found in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 25
+[26-Feb-2019 11:57:12 Europe/Moscow] PHP Fatal error:  Class 'View\Coupons\CouponsView' not found in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 25
+[26-Feb-2019 12:37:03 Europe/Moscow] PHP Fatal error:  Call to a member function drawPaging() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 187
+[26-Feb-2019 12:37:44 Europe/Moscow] PHP Fatal error:  Class 'Models\Coupons\Coupon' not found in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 205
+[26-Feb-2019 20:08:10 Europe/Moscow] PHP Fatal error:  Call to undefined method Loaders\Coupons\CouponsLoader::getAllPagination() in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 49
+[26-Feb-2019 20:29:18 Europe/Moscow] PHP Notice:  Undefined index: DISCINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:29:18 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:29:18 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:32:14 Europe/Moscow] PHP Notice:  Undefined index: DISCINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:32:14 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:32:14 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:32:16 Europe/Moscow] PHP Notice:  Undefined index: DISCINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:32:16 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:32:16 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:32:30 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:32:30 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:32:30 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:33:48 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:33:48 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:33:48 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:33:49 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:33:49 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:33:49 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:45:11 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:45:11 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:45:11 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:50:42 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 56
+[26-Feb-2019 20:50:42 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:50:42 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:52:05 Europe/Moscow] PHP Notice:  Undefined index: DISTINCT(name) in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Coupons/CouponsLoader.php on line 57
+[26-Feb-2019 20:52:05 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:52:05 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:53:00 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:53:00 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:54:44 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 140
+[26-Feb-2019 20:54:44 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:55:39 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 20:57:07 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 21:00:43 Europe/Moscow] PHP Fatal error:  Class Controllers\Coupons\CouponsController contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Controllers\Controllable::inputControll) in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 21
+[26-Feb-2019 21:01:35 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 21:04:31 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 21:05:50 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 21:05:53 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[26-Feb-2019 21:07:54 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsView.php on line 149
+[27-Feb-2019 11:44:04 Europe/Moscow] PHP Catchable fatal error:  Object of class Models\Companies\Company could not be converted to string in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsAddModalView.php on line 50
+[27-Feb-2019 12:28:20 Europe/Moscow] PHP Notice:  Undefined index: partner in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 126
+[27-Feb-2019 12:29:10 Europe/Moscow] PHP Notice:  Undefined index: partner in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 126
+[27-Feb-2019 20:00:31 Europe/Moscow] PHP Notice:  Undefined index: id in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Coupons/CouponsController.php on line 125
+[27-Feb-2019 20:00:31 Europe/Moscow] PHP Fatal error:  Call to a member function getId() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Coupons/CouponsEditModalView.php on line 51

@@ -1,0 +1,15 @@
+[27-Feb-2019 22:05:16 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Devices/ErrorsLoader.php on line 151
+[27-Feb-2019 22:05:16 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 122
+[27-Feb-2019 22:05:46 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 122
+[27-Feb-2019 22:10:17 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Barcodes/BarcodesLoader.php on line 59
+[27-Feb-2019 22:10:17 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 130
+[27-Feb-2019 22:10:40 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Barcodes/BarcodesLoader.php on line 59
+[27-Feb-2019 22:10:40 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 130
+[27-Feb-2019 22:10:54 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Barcodes/BarcodesLoader.php on line 59
+[27-Feb-2019 22:10:54 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 130
+[27-Feb-2019 22:11:22 Europe/Moscow] PHP Notice:  Array to string conversion in /home/pandomat/test.pandomat.ru/dashboard/Views/BaseMenuView.php on line 130
+[27-Feb-2019 22:15:26 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/pandomat/test.pandomat.ru/dashboard/Loaders/Barcodes/BarcodesLoader.php on line 59
+[28-Feb-2019 15:49:02 Europe/Moscow] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 135
+[01-Mar-2019 16:58:25 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Controllers/Devices/DevicesController.php on line 234
+[02-Mar-2019 22:06:25 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DeviceEyeModalView.php on line 75
+[24-Apr-2019 20:40:08 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Devices/DevicesView.php on line 103

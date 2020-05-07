@@ -1,0 +1,2 @@
+[24-Apr-2019 20:40:12 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Users/UsersView.php on line 106
+[24-Apr-2019 20:40:33 Europe/Moscow] PHP Fatal error:  Call to a member function getRole() on null in /home/pandomat/test.pandomat.ru/dashboard/Views/Users/UsersView.php on line 106

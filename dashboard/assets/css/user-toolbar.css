@@ -1,0 +1,116 @@
+#users-toolbar-container {
+    margin: 0 20px 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* vertical-align: middle; */
+}
+
+.toggle {
+    margin-left: 20px;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #2eb42e;
+    background: #2eb42e;
+    overflow: hidden;
+}
+
+.toggle__part {
+    box-sizing: border-box;
+    text-align: center;
+    padding: 5px 0 5px 0;
+    height: 30px;
+    width: 75px;
+    display: inline-block;
+    vertical-align: middle;
+    background: #f6f6f6;
+    cursor: default;
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+}
+
+.toggle__part_current {
+    background: #2eb42e;
+    color: white;
+}
+
+.toggle__part:not(.toggle__part_current) {
+    cursor: pointer;
+}
+
+.toggle__link {
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+}
+
+.toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.toolbar__buttons-wrapper {
+    /* height: 60px; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    text-align: center;
+    margin-right: 20px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    overflow: hidden;
+    align-items: stretch;
+    max-width: 240px;
+}
+
+.toolbar__link {
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+    /* font-family: 'Arial', sans-serif;     */
+}
+
+.toolbar__button-item {
+    margin-top: 1px;
+    display: block;
+    /* background:  */
+    background: rgb(160, 240, 157);
+    padding: 0 10px;
+    height: 30px;
+    color: black;
+    font-size: 16px;
+    /* padding: 5px 10px; */
+    cursor: pointer;
+    
+    /* padding: 0 10px; */
+
+    text-align: center;
+    flex: 1;
+    /* border: 1px solid #000; */
+}
+
+/* .toolbar__buttons-wrapper:first-child { */
+.toolbar__button-item:first-child {
+    /* border: 0 solid #000; */
+    /* border-bottom-width: 1px; */
+}
+
+.toolbar-button.toolbar_btn {
+    /* padding: 0 10px; */
+    width: 100%;
+    
+/*     
+    background: rgb(160, 240, 157);
+    color: black;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #00000000; */
+}
+
+

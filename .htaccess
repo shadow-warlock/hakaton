@@ -1,0 +1,4 @@
+RewriteEngine On
+DirectoryIndex devices/index.php index.php
+RewriteCond %{SERVER_PORT} !^443$
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]

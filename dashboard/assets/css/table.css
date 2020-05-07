@@ -1,0 +1,124 @@
+table {
+    margin: 0 0 20px 0;
+    width: 100%;
+    border-spacing: 0;
+    border: 0 solid black;
+}
+
+thead {
+    /* font-weight: 700; */
+    font-weight: normal;
+    background: #888;
+    color: white;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+    border: 0 solid black;
+}
+
+.editor-cell {
+    text-align: center;
+}
+
+
+
+#devices-table {
+    margin: 0;
+    min-width: 1024px;
+    width: 100%;
+}
+
+
+tr:nth-child(2n){
+    background: #e5e5e5;
+}
+
+tr {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.table__id {
+    text-align: center;
+}
+
+
+#users-table-container,
+#devices-table-container {
+    display: flex;
+    /* width: calc(100% - 40px); */
+    /* margin-left: 20px; */
+    /* margin-bottom: 20px; */
+    overflow: scroll;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+#users-table-container::-webkit-scrollbar,
+#devices-table-container::-webkit-scrollbar {
+    display: none;
+}
+
+td{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+td:first-child {
+    padding-left: 20px;
+}
+
+td:last-child {
+    padding-right: 20px;
+}
+
+
+.table__error {
+    max-width: 250px;
+}
+
+.table__occupancy {
+    /* font-weight: bold; */
+    font-size: 18px;
+}
+
+thead td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.manage-icon {
+    font-size: 25px;
+    color: #777;
+    cursor: pointer;
+    margin-left: 10px;
+    /* animation-duration: 5s; */
+    transition-duration: 120ms;
+    transition-timing-function: ease-in-out;
+}
+
+
+.fa-eye.manage-icon:hover {
+    color: lightblue;
+}
+
+.fa-edit.manage-icon:hover {
+    color: tomato;
+}
+
+.fa-trash.manage-icon:hover {
+    color: black;
+}
+
+
+
+
+
+

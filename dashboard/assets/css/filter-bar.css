@@ -1,0 +1,26 @@
+.filter {
+    align-items: center;
+    color: black;
+    display: flex;
+    /* margin: 0 20px 20px 20px; */
+    padding: 10px 20px;
+    -ms-overflow-style: none;  /* IE 10+ */
+    overflow: -moz-scrollbars-none;  /* Firefox */
+}
+
+.filter::-webkit-scrollbar {
+    display: none;
+}
+
+.filter__blockname {
+    margin: 0 5px 0 20px;
+    vertical-align: middle;
+}
+
+.filter__select {
+    background: white;
+    border-radius: 3px;
+    color: black;
+    padding: 3px;
+    vertical-align: middle;
+}
